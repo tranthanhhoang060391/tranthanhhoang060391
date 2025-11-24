@@ -109,7 +109,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tranthanhhoang060391/tranthanhhoang060391/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/tranthanhhoang060391/tranthanhhoang060391/main/dist/github-contribution-grid-snake.svg" />
 </p>
 
 ---
