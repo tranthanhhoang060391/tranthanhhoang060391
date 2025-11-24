@@ -88,20 +88,17 @@
 
 ### GitHub Stats
 
-<table align="center">
-<tr style="border: none;">
-<td width="50%" align="center" style="border: none;">
-
-<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=tranthanhhoang060391&show_icons=true&theme=radical" height="160"/>
-
-</td>
-<td width="50%" align="center" style="border: none;">
-
-<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=tranthanhhoang060391&layout=compact&theme=radical" height="160"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img
+    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=tranthanhhoang060391&show_icons=true&theme=radical"
+    height="165"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=tranthanhhoang060391&layout=compact&langs_count=6&theme=radical"
+    height="165"
+  />
+</p>
 
 ---
 
