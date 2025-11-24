@@ -20,9 +20,9 @@
 
 ---
 
-## Tools and Technologies
+### Tools and Technologies
 
-### Front-end languages and frameworks
+#### Front-end languages and frameworks
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,7 +33,7 @@
 
 ---
 
-### Backend languages, frameworks, tools and databases
+#### Backend languages, frameworks, tools and databases
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -52,7 +52,7 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### Testing frameworks
+#### Testing frameworks
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
@@ -60,7 +60,7 @@
 
 ---
 
-### Infrastructure, CI/CD, Automation, SDLC Tools
+#### Infrastructure, CI/CD, Automation, SDLC Tools
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
@@ -79,14 +79,14 @@
 
 ---
 
-### Game Development
+#### Game Development
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ---
 
-## My GitHub Stats 🐱‍👤
+### My GitHub Stats 🐱‍👤
 
 <p align="center">
   <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=tranthanhhoang060391&show_icons=true&theme=radical" height="180"/>
