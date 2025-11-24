@@ -3,10 +3,13 @@
 ---
 
 ### I'm Hoang! ✨
+<img src="https://github.com/user-attachments/assets/db13b23c-f29c-4475-9e10-4891afcc1659" width="200" align="right" />
+
+
 > I'm a Full-Stack Developer with strong technical expertise in backend architecture, scalable web systems, and modern application development.  
 > I specialize in **PHP (Laravel), Node.js, React.js**, and database-driven design, and I enjoy building clean, efficient, and maintainable solutions.  
 > At the same time, I’m a developer who loves having fun with code — whether crafting backend logic, designing smooth front-end experiences, or experimenting with game mechanics in Unity.  
-> I believe great software comes from a mix of **technical excellence**, **curiosity**, and a bit of creative spark. 🚀🐼✨
+> I believe great software comes from a mix of **technical excellence**, **curiosity**, and a bit of creative spark. 🚀✨
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tranthanhhoang060391&color=blue)
 ![Followers](https://img.shields.io/github/followers/tranthanhhoang060391?style=social)
