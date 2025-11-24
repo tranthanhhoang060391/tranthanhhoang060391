@@ -11,6 +11,8 @@
 > At the same time, I’m a developer who loves having fun with code — whether crafting backend logic, designing smooth front-end experiences, or experimenting with game mechanics in Unity.  
 > I believe great software comes from a mix of **technical excellence**, **curiosity**, and a bit of creative spark. 🚀✨
 
+![GitHub stars](https://img.shields.io/github/stars/tranthanhhoang060391/tranthanhhoang060391?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/tranthanhhoang060391/tranthanhhoang060391?style=flat-square)
 ![Profile Views](https://komarev.com/ghpvc/?username=tranthanhhoang060391&color=blue)
 ![Followers](https://img.shields.io/github/followers/tranthanhhoang060391?style=social)
 
