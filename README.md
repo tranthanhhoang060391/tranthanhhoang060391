@@ -1,19 +1,12 @@
-<h1 align="center">🐼 Hi, welcome!</h1>
+<h1 align="center">🚀 Hey there!</h1>
 
 ---
 
-
-
 ### I'm Hoang! ✨
-<img src="https://i.imgur.com/OuXG3iH.gif" width="280" align="right"/>
-
-- 💼 Full-Stack Developer experienced with **PHP, Laravel, Node.js, React.js, and Unity (C#)**  
-- 💡 Strong understanding of backend logic, REST APIs, authentication, and system design  
-- 🧰 Skilled in building scalable web apps and interactive gameplay systems  
-- 🕹️ Game developer exploring fantasy magic-based mechanics & mobile Unity projects  
-- 🛠️ Comfortable with frontend work (React, HTML/CSS, Bootstrap, Tailwind)  
-- 📚 Constantly learning & improving in microservices, DevOps, and architecture  
-- 🌿 Fun fact: I love combining web development and game development—both give me new creative ideas!  
+> I'm a Full-Stack Developer with strong technical expertise in backend architecture, scalable web systems, and modern application development.  
+> I specialize in **PHP (Laravel), Node.js, React.js**, and database-driven design, and I enjoy building clean, efficient, and maintainable solutions.  
+> At the same time, I’m a developer who loves having fun with code — whether crafting backend logic, designing smooth front-end experiences, or experimenting with game mechanics in Unity.  
+> I believe great software comes from a mix of **technical excellence**, **curiosity**, and a bit of creative spark. 🚀🐼✨
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tranthanhhoang060391&color=blue)
 ![Followers](https://img.shields.io/github/followers/tranthanhhoang060391?style=social)
