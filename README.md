@@ -1,10 +1,7 @@
 <h1 align="center">🚀 Hey there!</h1>
 
----
-
 ### I'm Hoang! ✨
 <img src="https://github.com/user-attachments/assets/db13b23c-f29c-4475-9e10-4891afcc1659" width="200" align="right" />
-
 
 > I'm a Full-Stack Developer with strong technical expertise in backend architecture, scalable web systems, and modern application development.  
 > I specialize in **PHP (Laravel), Node.js, React.js**, and database-driven design, and I enjoy building clean, efficient, and maintainable solutions.  
