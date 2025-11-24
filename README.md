@@ -86,12 +86,22 @@
 
 ---
 
-### My GitHub Stats 🐱‍👤
+### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=tranthanhhoang060391&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=tranthanhhoang060391&layout=compact&theme=radical" height="180"/>
-</p>
+<table align="center">
+<tr style="border: none;">
+<td width="50%" align="center" style="border: none;">
+
+<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=tranthanhhoang060391&show_icons=true&theme=radical" height="160"/>
+
+</td>
+<td width="50%" align="center" style="border: none;">
+
+<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=tranthanhhoang060391&layout=compact&theme=radical" height="160"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
